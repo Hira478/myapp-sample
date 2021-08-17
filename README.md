@@ -1,2 +1,2 @@
 # Myapp
-This is my app
+personal app repo for back-end test for dicoding.com
